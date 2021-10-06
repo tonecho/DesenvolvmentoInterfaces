@@ -11,6 +11,6 @@ public class NumEspazosBlanco {
         for (int i = 0; i < cadea.length(); i++) {
             if (cadea.charAt(i) == ' ') espazos++;
         }
-        System.out.println("Número de espacios en branco : " + espazos);
+        System.out.println("Número de espazos en branco : " + espazos);
     }
 }
